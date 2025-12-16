@@ -5,7 +5,7 @@ The role of a logging utility library should be to configure an existing logger 
 - log structure
 - where logs go
 
-This proposed log-util solution uses [**loguru**](https://loguru.readthedocs.io/en/stable/overview.html) the primary logging library and then provides the following as utility: 
+This proposed log-util solution uses [**loguru**](https://loguru.readthedocs.io/en/stable/overview.html) as the primary logging library and then provides the following as utility: 
 
 - Configuration helper method
 - Example log structures (in the form of pydantic models that can be imported)
