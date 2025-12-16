@@ -1,3 +1,7 @@
+# Logging
+
+[This documentation](https://github.com/AllenNeuralDynamics/SIPE-Admin/discussions/130) outlines some of the goals and standards related to logging that Cliff S. created. This doc should act as the foundation to our discussions on how we want logging to look in AIND and the Allen Institute in general. 
+
 # Logging Utility Library
 
 The role of a logging utility library should be to configure an existing logger (python standard logging, loguru, etc) with the following: 
